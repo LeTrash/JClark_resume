@@ -15,6 +15,7 @@ Software Engineer Junior of BYU-Idaho University.
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+<!-- 1. git pull 2. git add . 3. git commit -m "message" 4. git push -->
 
 ## Education
 
@@ -22,11 +23,17 @@ Software Engineer Junior of BYU-Idaho University.
 **Brigham Young University - Idaho**, Rexburg, id
 
 - Full academic scholarship with 3.95 GPA
+- Won 2022 McKay Library Sticker Design Contest
+- Group leader for four semesters
+- Engaged in 2022 BYU-I Hackathon with MobileDash
 
 `2016-2020`
 **Mclean High School**, Mclean, VA
 
-- 3.8 GPA
+- Graduated with a 3.8 GPA
+- Nominated and received McLean high school Pride award in freshman year for academics and dedication
+- National Honor Society
+- Created and illustrated three children's books
 
 ## Related Experience
 
