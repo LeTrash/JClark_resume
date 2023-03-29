@@ -63,13 +63,6 @@ Software Engineer Junior of BYU-Idaho University.
 
 ### Skills
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-**Pinnacle Management Group**,
-
 - Adobe Illustrator, Photoshop, and Indesign
 - Flipnote studios animation, Clip Studio Paint, computer graphics, and design
 - Javascript, HTML files, MySQL, Python, C#, CSS
