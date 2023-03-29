@@ -9,7 +9,6 @@ Software Engineer Junior of BYU-Idaho University.
 
 <div id="webaddress">
 <a href="cla19072@byui.edu">cla19072@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/jessica-clark-a37657236/">LinkedIn</a>
 | <a href="https://github.com/LeTrash">GitHub</a>
 </div>
@@ -22,7 +21,7 @@ Software Engineer Junior of BYU-Idaho University.
 `Expected 2024`
 **Brigham Young University - Idaho**, Rexburg, id
 
-- Full academic scholarship with 3.95 GPA
+- 3.95 GPA
 - Won 2022 McKay Library Sticker Design Contest
 - Group leader for four semesters
 - Engaged in 2022 BYU-I Hackathon with MobileDash
@@ -42,37 +41,27 @@ Software Engineer Junior of BYU-Idaho University.
 `January 2023 - Present`
 **BYU-I Information Technology**, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Collaborated with a team of techs to fix incidents within university as well as service requests
+- Installed imaging on new desktops and implemented on sites around campus
+- Installed imaging on new desktops and implemented on sites around campus
 
 `July 2022 - September 2022`
 **Chicago Pizza With a Twist**, Arlington, VA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Served part time for 7-8 hours each day
+- Served customers in store, website, and on phone
+- Aided with product prep, meal packaging, training, and organized delivery orders
+- Cleaned and closed up shop
 
-### Data Science Lead
+### Volunteer Work
 
-`April 2027 - June 2027`
-**Westmark Credit Union**, Consultant
+- Engaged in annual Rise Against Hunger service event
+- Cooperated with Meals on Wheels through 2020 quarantine, delivering groceries to those compromised
+- Managed preparing food portions for Ramadan and gift drive as well as collected and provided provisions for refugees
+- Gathered, prepared, and gave out meals for homeless in local food pantries
+- Cleaned and closed up shop
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging.
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-**Good2Go**, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-**Imagine Learning**
+### Skills
 
 - Build web scraping tool to find and format school district technology data.
 - Used R and the Rvest package to parse and format web data.
@@ -81,17 +70,9 @@ Software Engineer Junior of BYU-Idaho University.
 `April 2027 - July 2027`
 **Pinnacle Management Group**,
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-## Service History
-
-`2025-2027`
-**Math Tutor**, LDSBC
-
-`2023-2025`
-**Service Missionary**, South Africa
+- Adobe Illustrator, Photoshop, and Indesign
+- Flipnote studios animation, Clip Studio Paint, computer graphics, and design
+- Javascript, HTML files, MySQL, Python, C#, CSS
 
 <!-- ### Footer
 
