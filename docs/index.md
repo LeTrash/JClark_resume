@@ -55,11 +55,10 @@ Software Engineer Junior of BYU-Idaho University.
 
 ### Volunteer Work
 
-- Engaged in annual Rise Against Hunger service event
-- Cooperated with Meals on Wheels through 2020 quarantine, delivering groceries to those compromised
+- Engaged in annual <a href="https://www.riseagainsthunger.org/">Rise Against Hunger</a> service event
+- Cooperated with <a href="https://www.mealsonwheelsamerica.org/">Meals on Wheels</a> through 2020 quarantine, delivering groceries to those compromised
 - Managed preparing food portions for Ramadan and gift drive as well as collected and provided provisions for refugees
 - Gathered, prepared, and gave out meals for homeless in local food pantries
-- Cleaned and closed up shop
 
 ### Skills
 
